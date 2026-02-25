@@ -105,9 +105,6 @@ Task-manager/
 ├── static/
 │   ├── favicon.ico
 │   └── testdino-logo.png
-├── tests/
-│   └── task-manager.spec.ts
-├── playwright.config.ts
 ├── README.md
 └── venv/
 ```
